@@ -1,0 +1,179 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user123",
+      "password": "$2b$10$vIUO3NPHkR1R44SBWjM/0.RcnnH/dGnMVxYELofJD8c6zKBgXDkm2",
+      "email": "user123@example.com",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "username": "admin123",
+      "password": "$2b$10$fYh7mVIy6oBcuKcUExjdf.AIgp2FlvvEcg3sPVPwCbBoOoUqjwLbW",
+      "email": "admin123@example.com",
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "username": "jonas1",
+      "password": "$2b$10$F0qNUTihqX5qHNis34IAKOAiSJ/AQNdwwS.ooOern7CiCVEBz0pl.",
+      "email": "jonas1@example.com",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "username": "jonas123",
+      "password": "$2b$10$.vSuBDfuBzvpBA/Ja9/w7.3gkWZ8zEZFtt8hILfIwVmMK6NB4dF2.",
+      "email": "jonas123@example.com",
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "username": "emma123",
+      "password": "$2b$10$MQYE5Pn5fIf3HcQ2170h9.HySrRS4dHeRuOS66RYmvw7jqKVFobNC",
+      "email": "emma123@example.com",
+      "role": "user"
+    },
+    {
+      "id": 6,
+      "username": "lexie123",
+      "password": "$2b$10$dckJhmFhB3ZWVNCL6GPk6ecRzOnDh77k1PaOT65L0wTwAR9zwAyhi",
+      "email": "lexie123@example.com",
+      "role": "user"
+    },
+    {
+      "id": 7,
+      "username": "peter123",
+      "password": "$2b$10$Brjk6CLNULB/lCCjDjFWpexc4Wqb6aO9tVyCoDkOgcDn5Y7Cx2Ygu",
+      "email": "peter123@example.com",
+      "role": "user"
+    },
+    {
+      "id": 8,
+      "username": "johanna123",
+      "password": "$2b$10$jAYqOfrjxjDpoC2y41ELwOjkbtVl8iWoiEqlSxf0f7F6cxRe9n5F2",
+      "email": "johanna123@example.com",
+      "role": "user"
+    },
+    {
+      "id": 9,
+      "username": "robertsvejs",
+      "password": "$2b$10$l/y4BkaWOpPkFiDiH/RFmeeYEyfFyCYrFAjBrGrv5ipvxnxeuWoo.",
+      "email": "robertsvejs@example.com",
+      "role": "admin"
+    },
+    {
+      "id": 10,
+      "username": "MICKEFAN",
+      "password": "$2b$10$.8RHWj8jQP/VX297Nru.meJTCVG2J5j7Yqr2U9iYzViwviycuQCLW",
+      "email": "MICKEFAN@example.com",
+      "role": "user"
+    },
+    {
+      "id": 11,
+      "username": "peterstorarm",
+      "password": "$2b$10$n5DxojwmTN6n3R3dSx0GeeQO0EXQ/iO9ZWyhwjPx8kXsFo/df3z5q",
+      "email": "peterstorarm@example.com",
+      "role": "user"
+    },
+    {
+      "id": 12,
+      "username": "helena1",
+      "password": "$2b$10$u7Iy89YAFj2WxWHFuBZzf.IWq3bJ07u/n/TFVYCHLZfDwC8GzABLO",
+      "email": "helena1@example.com",
+      "role": "user"
+    },
+    {
+      "id": 13,
+      "username": "jonasbb",
+      "password": "$2b$10$r7xdidrf4hBU0LGcuIvyeuiXJ.bnwrOl14RV/67KptMbRUYQ3QCcC",
+      "email": "jonasbb@example.com",
+      "role": "user"
+    },
+    {
+      "id": 14,
+      "username": "linahejhej",
+      "password": "$2b$10$vF.w.2iqztLmXTVyi5Bo.u8e5gADDGopeez98ul9AFVXVWzJ29NAy",
+      "email": "linahejhej@example.com",
+      "role": "user"
+    },
+    {
+      "id": 15,
+      "username": "admin123",
+      "password": "$2b$10$6uhhfa1yFtAkcaEMQpDoV.22CjJOun.wjLTicPjfKoDgDEkIY4gIa",
+      "email": "admin123@example.com",
+      "role": "user"
+    },
+    {
+      "id": 16,
+      "username": "admin123",
+      "password": "$2b$10$g59E1ux.IpSXQBKdlki3sOitYJOaGYnnyx7Jnqh.BGsIkvxl5lD3.",
+      "email": "admin123@example.com",
+      "role": "user"
+    },
+    {
+      "id": 17,
+      "username": "Ariam123",
+      "password": "$2b$10$L5If0epvUmErVO/E8lg9qeMoVs/0a5rnA2B6ImFz/d3s3ke5IuDTi",
+      "email": "Ariam123@example.com",
+      "role": "user"
+    },
+    {
+      "id": 18,
+      "username": "Ariam123",
+      "password": "$2b$10$2MAWFF/B9euEsWerX6nWEea7vDTTaZ8OwoUAlrnNFW6MMIA/tUgj2",
+      "email": "Ariam123@example.com",
+      "role": "user"
+    },
+    {
+      "id": 19,
+      "username": "helmet",
+      "password": "$2b$10$7HiEqTut7OEbl.YhbH3IDuxy6uu7T0J1RGV40RepY6AF9tS8TXkXK",
+      "email": "helmet@example.com",
+      "role": "user"
+    },
+    {
+      "id": 20,
+      "username": "hell",
+      "password": "$2b$10$C7aEONt5Qlj/OPDSVRtovOtyTPAQnRqYcOpxgn7im9.hSgtJGgK/C",
+      "email": "hell@example.com",
+      "role": "user"
+    },
+    {
+      "id": 21,
+      "username": "ahmed",
+      "password": "$2b$10$hhx0kRDSamAzL3lm6QPL1.mdWq.iP2xtWZjKV0T3QDMxdolUEAxKS",
+      "email": "ahmed@example.com",
+      "role": "user"
+    },
+    {
+      "id": 22,
+      "username": "ariam",
+      "password": "$2b$10$St0Llsk3.x5P3kqrLaDp1u.OxRVJQ/50iowyS.JGMSYirRbrLQzuy",
+      "email": "ariam@example.com",
+      "role": "user"
+    },
+    {
+      "id": 23,
+      "username": "ariamgoitom",
+      "password": "$2b$10$6/Bm6xzsRR5AV/dMKGVjQeHWaTfRGmy/i615eRxBvb1Ob46NWPNqW",
+      "email": "ariamgoitom@example.com",
+      "role": "user"
+    },
+    {
+      "id": 24,
+      "username": "ahmed",
+      "password": "$2b$10$68DiZwv3SceC8PD1/NlZBegdXZ1qaskUKTliYyC3QUgSMk7ev5Owm",
+      "email": "ahmed@example.com",
+      "role": "user"
+    },
+    {
+      "id": 25,
+      "username": "ahmed",
+      "password": "$2b$10$hrRqnHLs6fxh5TSWBlz.S.wTyhQ4gWZUj5XILQ8HhRp.W5NImpfEe",
+      "email": "ahmed@example.com",
+      "role": "user"
+    }
+  ]
+}
